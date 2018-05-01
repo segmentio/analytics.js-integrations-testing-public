@@ -1,0 +1,25 @@
+{
+  "name": "analytics.js-integrations-testing-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segmentio/analytics.js-integrations-testing-public.git"
+  },
+  "author": "Carlos Mecha <carlos@segment.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segmentio/analytics.js-integrations-testing-public/issues"
+  },
+  "homepage": "https://github.com/segmentio/analytics.js-integrations-testing-public#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
