@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/segmentio/analytics.js-integrations-testing-public#readme",
   "devDependencies": {
-    "mocha": "^5.1.1"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "express": "^4.16.3"
